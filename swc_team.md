@@ -278,6 +278,14 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Siddhant Jagtap](https://github.com/Siddhant-19) 
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
+   
+  * [Kunal Solanke](https://github.com/VolDemorT-acer)
+   - *Frameworks* : Express, Django,React,Nodejs
+   - *Frontend* : HTML,Css and Css Frameworks(Bootstrap,Tailwind,material-ui),Js,jquery
+   - *AppD* : Flutter and native(android)
+   - *Libraries* - React
+   - *email* : kunal.shivaji@iitg.ac.in
+   - *portfolio* : https://voldemort-acer.github.io/Portfolio/
 
 
    
